@@ -1,5 +1,5 @@
-# -Queen-with-Genetic-Algorithm
- Queen with Genetic Algorithm - MATLAB
+# -8 Queen-with-Genetic-Algorithm
+ 8 Queen with Genetic Algorithm - MATLAB
 
  You can buy this code by contact me in WhatsApp, Telegram and iMessage with +989360703858
 
